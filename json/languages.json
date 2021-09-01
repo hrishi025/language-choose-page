@@ -1,0 +1,20 @@
+[
+  {
+    "lang_id": 1,
+    "lang_name": "English",
+    "image": "https://i.scdn.co/image/ab67706f000000029bb6af539d072de34548d15c",
+    "bg": "rgb(71, 125, 149)"
+  },
+  {
+    "lang_id": 2,
+    "lang_name": "Hindi",
+    "image": "https://i.scdn.co/image/ab67706f0000000253571d016bad8a03f8576ecd",
+    "bg": "rgb(160, 195, 210)"
+  },
+  {
+    "lang_id": 3,
+    "lang_name": "Marathi",
+    "image": "https://t.scdn.co/images/713254a577a64338a450481329f0d83f.jpeg",
+    "bg": "rgb(240, 55, 165)"
+  }
+]
